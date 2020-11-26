@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Alexander Amarante ",
+    "occupation":"(IT)",
+    "description":"A Highly motivated individual with a background in Support, Security & Object Oriented Programming. ",
+    "image":"profilepic.jpg",
+    "bio":"This web Page was designed to be short and sweet. Created using React, Javascript, & HTML. Hope you have as much fun viewing it, as I did creating it! ",
+    "contactmessage":"Feel Free to Reach out!.",
+    "email": "alexanderamarante01@gmail.com",
+    "phone": "860-904-3558",
+    "address":{
+      "city":"Hartford",
+      "state":"(Connecticut)",
+      "zip": "(06040)"
+    },
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/1Z4mOtm79G3g5jDmOYLEXkBvEOn_kjAY-/edit",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alexander-amarante-2133098a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/UGC04950?tab=repositories",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have had the oppurtunity to work on many differnt types of projects & here is are some for starters!",
+    "education":[
+      {
+        "school":"San Diego State University",
+        "degree":"Bachelor of Science, Computer Science",
+        "graduated":"2016",
+        "description":"Theoretical foundations of computing."
+      }
+    ],
+    "work":[
+      {
+        "company":"Robert Half Technology",
+        "title":"Information Technology Project Coordinator",
+        "years":"2020 - Present",
+        "description":"Provide live technical and user support for online event platform."
+      
+      },
+      {
+        "company":"Ultimate Gaming Services",
+        "title":"CEO & Lead Design / Programmer",
+        "years":"2019 - 2020",
+        "description":"Game design /scripting, & debugging. Using a C++, Lua, SQL, & HTML / CSS . "
+        
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Variable Data Programming",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Databases",
+        "level":"85%"
+      },
+      {
+        "name":"UI /HTML / CSS",
+        "level":"90%"
+      },
+      {
+        "name":"React",
+        "level":"85%"
+      },
+      {
+        "name":"Learning New Concepts",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Consultant Web Sample",
+        "category":"HTMl & CSS",
+        "image":"consult.jpg",
+        "url":"https://pythoholic-web.s3.us-east-2.amazonaws.com/Pythoholic/index.html"
+      },
+      {
+        "title":"Cafe Web Sample",
+        "category":"Bootstrap",
+        "image":"cafe.jpg",
+        "url":"https://cafesample.s3.us-east-2.amazonaws.com/Coffeebar/index.html"
+      },
+      {
+        "title":"Help Desk Ticketing System",
+        "category":"Angular",
+        "image":"tick.jpg",
+        "url":"https://ticketsupportadmin.s3.us-east-2.amazonaws.com/ticketadmin/index.html"
+      },
+      {
+        "title":"Credit Card Promotion Letter",
+        "category":"A React based resume website template",
+        "image":"promo3.jpg",
+        "url":"https://pslpromo.s3.us-east-2.amazonaws.com/promo/prom1.html"
+      },
+      {
+        "title":"Code Breaking",
+        "category":"Simple code breaking game & script written in python",
+        "image":"breaker1.jpg",
+        "url":"https://pythoncodebreaker.s3.us-east-2.amazonaws.com/codebreaker/index.html"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Price is what you pay. Value is what you get.",
+        "user":"Warren Buffett"
+      },
+      {
+        "text":"“Technology is best when it brings people together.",
+        "user":" Matt Mullenweg"
+      }
+    ]
+  }
+}
